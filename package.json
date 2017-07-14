@@ -1,6 +1,6 @@
 {
   "name": "alfred-brightness",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Adjust your display’s brightness",
   "license": "MIT",
   "repository": "importre/alfred-brightness",
@@ -44,4 +44,3 @@
     }
   }
 }
-
